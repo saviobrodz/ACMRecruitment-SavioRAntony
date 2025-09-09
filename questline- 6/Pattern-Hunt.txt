@@ -1,0 +1,19 @@
+2, 6, 12, 20, ____, _____
+
+first term ---> 2
+
+(difference: 4)
+
+second term ---> 6
+
+(difference: 6)
+
+third term ---> 12
+
+(difference: 8)
+
+fourth term ---> 20
+
+as you can see here, the difference between each consecutive terms is increasing by 2
+
+so the series is: 2, 6, 12, 20, 30, 42.

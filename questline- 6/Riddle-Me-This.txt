@@ -1,0 +1,23 @@
+The farmer should take the goat first to the other side, come back on his own. On the second journey, he should carry the wolf to the other side of the river, but on his return, bring the goat back. On the third journey, bring the cabbage to the other side and come back on his own. Then bring the goat to the other side.
+
+Cabbage		   Goat
+Goat		<--------->		Goat
+Wolf		   Empty
+
+
+
+Cabbage		   Wolf
+		<--------->		Wolf
+Wolf		   Goat
+
+
+
+		  Cabbage		Wolf
+Goat		<--------->		Cabbage
+		   Empty
+
+
+
+		   Goat			Wolf
+		<--------->		Cabbage
+		    x			Goat
