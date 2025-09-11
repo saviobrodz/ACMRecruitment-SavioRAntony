@@ -1,0 +1,1 @@
+Name the switches as A, B, C. Turn on the switch 'A' for about 10 minutes. Turn off the switch A, after that turn on the switch b. Then enter the room. If the bulb is on the answer is switch B. If it is off touch the bulb and if its hot the answer is switch A. If its cold or basically the answer is switch C
