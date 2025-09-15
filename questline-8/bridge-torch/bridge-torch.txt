@@ -1,0 +1,10 @@
+Four people need to cross a bridge at night. They have one torch. Only two people can cross at a time. The torch is required for crossing. Their crossing times are:-
+- Person A: 1 minute
+- Person B: 2 minutes
+- Person C: 7 minutes
+- Person D: 10 minutes
+
+## When two people cross together, they move at the speed of the slower one. Someone must bring the torch back if others are still on the starting side.
+
+Goal:
+Get all four across in the least total time.

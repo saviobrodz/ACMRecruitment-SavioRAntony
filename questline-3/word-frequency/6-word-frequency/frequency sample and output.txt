@@ -1,0 +1,7 @@
+Enter a paragraph:
+I Love Coding
+
+Word -- Count
+i -- 1
+love -- 1
+coding -- 1
