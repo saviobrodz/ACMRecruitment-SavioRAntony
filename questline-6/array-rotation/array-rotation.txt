@@ -1,0 +1,12 @@
+You’re given a list of numbers (called an array), and you need to rotate it to the right by k steps. That means each number moves k places to the right, and the ones that fall off the end come back around to the front.
+Example:
+If you have this list:
+[1, 2, 3, 4, 5, 6, 7]
+and you rotate it by 3, it becomes:
+[5, 6, 7, 1, 2, 3, 4]
+How it works:
+Instead of moving each number one by one (which is slow), we flip parts of the list to get the result faster.
+Here’s the trick:
+- Flip the whole list.
+- Flip the first k numbers.
+- Flip the rest.
