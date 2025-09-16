@@ -1,0 +1,14 @@
+ Execution Trace Table
+|  | i | A | B | SUM |  | SUM | 
+|  |  |  |  |  |     |  |
+|  |  |  |  |  | SUM = 0 + 5  |  | 
+|  |  |  |  |  | SUM = 5 + 5  |  | 
+|  |  |  |  |  | SUM = 10 + 5 |  | 
+
+
+
+OUTPUT 15
+
+
+
+
